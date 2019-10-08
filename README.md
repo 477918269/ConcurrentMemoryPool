@@ -1,0 +1,2 @@
+# ConcurrentMemoryPool
+本项目是在哈希映射的FreeList的基础上，为解决其内存碎片和高并发时效率下降的问 题而实现的高并发内存池。
